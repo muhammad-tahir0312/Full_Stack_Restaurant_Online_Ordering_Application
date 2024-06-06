@@ -92,6 +92,7 @@ To get a local copy up and running, follow these steps:
 ## Tools
 
 - Prisma
+- Docker
 - Next.js
 - Babel (for testing)
 - Stripe API (for payment processing)
