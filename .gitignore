@@ -1,0 +1,48 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+.env
+
+# Local database backup
+backup_file.sql
+
+# vercel
+.vercel
+
+# You might also want to ignore the yarn error logs
+yarn-error.log
+
+# And any editor directories like .vscode/
+.vscode/
+.swc/
+lib/
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+yarn.lock
+package-lock.json
