@@ -87,6 +87,6 @@ To get a local copy up and running, follow these steps:
 
 ## Team Members
 
-- **Insha Javed** - [GitHub](https://github.com/insha-javed)
-- **Muhammad Tahir** - [GitHub](https://github.com/muhammad-tahir)
+- **Insha Javed** - [GitHub](https://github.com/ibchohan)
+- **Muhammad Tahir** - [GitHub](https://github.com/muhammad-tahir0312)
 ---
